@@ -1,0 +1,6 @@
+C:\Users\adnan\source\repos\AUdioPlayer\AUdioPlayer\Debug\AUdioPlayer.vcxproj.AssemblyReference.cache
+C:\Users\adnan\source\repos\AUdioPlayer\AUdioPlayer\Debug\AUdioPlayer.MyForm.resources
+C:\Users\adnan\source\repos\AUdioPlayer\AUdioPlayer\Debug\AUdioPlayer.vcxproj.GenerateResource.cache
+C:\Users\jehan\source\repos\AudioPlayer\AUdioPlayer\Debug\AUdioPlayer.vcxproj.AssemblyReference.cache
+C:\Users\jehan\source\repos\AudioPlayer\AUdioPlayer\Debug\AUdioPlayer.MyForm.resources
+C:\Users\jehan\source\repos\AudioPlayer\AUdioPlayer\Debug\AUdioPlayer.vcxproj.GenerateResource.cache
