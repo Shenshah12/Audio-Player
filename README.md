@@ -35,6 +35,10 @@ For creating the graphical user interface (GUI).
 ## Video Demonstration
 A video demonstrating the features and functionality of the audio player is shown below:
 
+https://github.com/user-attachments/assets/f1b14748-cc8f-472f-bced-5aec5417f11a
+
+
+
 ## Future Enhancements
 
 - ### Playlist Support: 
